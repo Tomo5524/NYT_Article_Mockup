@@ -16,3 +16,12 @@ header{
 	/*width: 600px;*/
 	max-width: 600px;
 }
+
+.authour{
+	float: left;
+}
+
+.text{
+	display: grid;
+	grid-column: repeat(1fr minmax(600px))
+}
